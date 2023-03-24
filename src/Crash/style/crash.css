@@ -1,3 +1,7 @@
+.chartLine {
+  width: 540px;
+  margin-left: 5px;
+}
 @media only screen and (max-width: 767px) {
   .crash-Display {
     /* display: flex;
