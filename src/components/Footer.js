@@ -28,7 +28,7 @@ export default function History() {
             </div>
             <hr className="footer-contact-line" />
             <div className="footer-text2">
-              <h4>JOIN US</h4>
+              {/* <h4>JOIN US</h4>
               <h4>HELP CENTER</h4>
               <h4>TERMS OF SERVICE</h4>
               <h4>DEPOSIT BONUS TERM</h4>
@@ -38,7 +38,7 @@ export default function History() {
               <h4>NEWS</h4>
               <h4>OFFICIAL MIRRORS</h4>
               <h4>AML</h4>
-              <h4>SELF-EXCLUSSION</h4>
+              <h4>SELF-EXCLUSSION</h4> */}
             </div>
           </div>
 
@@ -49,6 +49,9 @@ export default function History() {
             </h4>
           </div>
         </div>
+
+
+
 
         <hr className="footer-line" />
 
